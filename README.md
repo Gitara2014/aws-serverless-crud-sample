@@ -74,4 +74,4 @@ e.	Test
 
 6.	You can see logs on Test page of your lambda function.
 
-
+That's it
